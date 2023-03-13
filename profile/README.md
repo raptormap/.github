@@ -37,3 +37,7 @@ You can read the full guide [HERE](https://github.com/raptormap/.github/blob/mai
 ## 🚀 Deploy
 
 ### [⚗️ DEPLOY TOOLS](https://github.com/raptormap/deploy)
+
+### Packages build status
+
+![checks](https://github.com/raptormap/raptormap/actions/workflows/checks.yml/badge.svg)
