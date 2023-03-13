@@ -2,9 +2,9 @@
 
 > Welcome to the org !
 
-- [🗿 Start Working](#🗿-start-working)
-- [Contribute](#contribute)
-- [🚀 Deploy](#🚀-deploy)
+- [🗿 Start Working](#-start-working)
+- [🪨 Contribute](#-contribute)
+- [🚀 Deploy](#-deploy)
 
 ## 🗿 Start Working
 
@@ -26,7 +26,7 @@ To use obsidian simply install it and when prompted use `Open folder as vault` a
 
 Alternatively you can use the preview feature of VSCode with `Ctrl`+`Shift`+`V`
 
-## Contribute
+## 🪨 Contribute
 
 ### ⚠️ You MUST use [Conventional Commits](tools/Conventional%20Commits.md)
 
