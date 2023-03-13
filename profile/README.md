@@ -8,8 +8,6 @@
 
 ## 🗿 Start Working
 
-### Workflows status
-
 [![](https://github.com/raptormap/raptormap/actions/workflows/checks.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/checks.yml)
 [![](https://github.com/raptormap/raptormap/actions/workflows/docker-auth-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-auth-ms.yml)
 [![](https://github.com/raptormap/raptormap/actions/workflows/docker-chart-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-chart-ms.yml)
