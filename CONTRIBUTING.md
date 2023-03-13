@@ -68,4 +68,3 @@ remove that from this
 
 BREAKING CHANGE: an id need to be specified when you call a layer
 ```
-

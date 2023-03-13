@@ -1,4 +1,4 @@
-# RAPTOR MAP 🦖
+# 🦖 RAPTOR MAP
 
 > Welcome to the org !
 
@@ -9,19 +9,11 @@
 ## 🗿 Start Working
 
 [![Checks](https://github.com/raptormap/raptormap/actions/workflows/checks.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/checks.yml)
-[![auth-ms](https://github.com/raptormap/raptormap/actions/workflows/docker-auth-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-auth-ms.yml)
-[![chart-ms](https://github.com/raptormap/raptormap/actions/workflows/docker-chart-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-chart-ms.yml)
-[![gateway](https://github.com/raptormap/raptormap/actions/workflows/docker-gateway.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-gateway.yml)
-[![layer-ms](https://github.com/raptormap/raptormap/actions/workflows/docker-layer-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-layer-ms.yml)
-[![log-ms](https://github.com/raptormap/raptormap/actions/workflows/docker-log-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-log-ms.yml)
-[![rest-api](https://github.com/raptormap/raptormap/actions/workflows/docker-rest-api.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-rest-api.yml)
-[![solid-app](https://github.com/raptormap/raptormap/actions/workflows/docker-solid-app.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-solid-app.yml)
-[![space-ms](https://github.com/raptormap/raptormap/actions/workflows/docker-space-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-space-ms.yml)
-[![user-ms](https://github.com/raptormap/raptormap/actions/workflows/docker-user-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-user-ms.yml)
 
 ### [🐲 MONOREPO](https://github.com/raptormap/raptormap)
 
 steps to start working on raptormap:
+
 - create a fork of the above repository
 - clone the newly created fork on your computer
 - make some changes and push them **on your fork**
@@ -48,5 +40,3 @@ You can read the full guide [HERE](https://github.com/raptormap/.github/blob/mai
 ## 🚀 Deploy
 
 ### [⚗️ DEPLOY TOOLS](https://github.com/raptormap/deploy)
-
-
