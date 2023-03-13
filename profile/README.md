@@ -8,11 +8,11 @@
 
 ## 🗿 Start Working
 
-[![Checks](https://github.com/raptormap/raptormap/actions/workflows/checks.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/checks.yml)
+### [✔️ TODO](https://github.com/orgs/raptormap/projects/1)
 
 ### [🐲 MONOREPO](https://github.com/raptormap/raptormap)
 
-### [✔️ TODO](https://github.com/orgs/raptormap/projects/1)
+[![Checks](https://github.com/raptormap/raptormap/actions/workflows/checks.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/checks.yml)
 
 steps to start working on raptormap:
 
