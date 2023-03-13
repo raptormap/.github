@@ -12,7 +12,17 @@
 
 ### [🐲 MONOREPO](https://github.com/raptormap/raptormap)
 
-[![Checks](https://github.com/raptormap/raptormap/actions/workflows/checks.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/checks.yml)
+[![main](https://github.com/raptormap/raptormap/actions/workflows/branch-checks-main.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/branch-checks-main.yml)
+[![packages:next](https://github.com/raptormap/raptormap/actions/workflows/folder-checks-packages.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/folder-checks-packages.yml)
+[![rest-api:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-rest-api.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-rest-api.yml)
+[![gateway:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-gateway.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-gateway.yml)
+[![solid-app:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-solid-app.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-solid-app.yml)
+[![auth-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-auth-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-auth-ms.yml)
+[![chart-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-chart-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-chart-ms.yml)
+[![layer-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-layer-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-layer-ms.yml)
+[![log-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-log-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-log-ms.yml)
+[![user-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-user-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-user-ms.yml)
+[![space-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-space-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-space-ms.yml)
 
 steps to start working on raptormap:
 
