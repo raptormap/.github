@@ -8,6 +8,19 @@
 
 ## 🗿 Start Working
 
+### Workflows status
+
+[![](https://github.com/raptormap/raptormap/actions/workflows/checks.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/checks.yml)
+[![](https://github.com/raptormap/raptormap/actions/workflows/docker-auth-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-auth-ms.yml)
+[![](https://github.com/raptormap/raptormap/actions/workflows/docker-chart-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-chart-ms.yml)
+[![](https://github.com/raptormap/raptormap/actions/workflows/docker-gateway.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-gateway.yml)
+[![](https://github.com/raptormap/raptormap/actions/workflows/docker-layer-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-layer-ms.yml)
+[![](https://github.com/raptormap/raptormap/actions/workflows/docker-log-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-log-ms.yml)
+[![](https://github.com/raptormap/raptormap/actions/workflows/docker-rest-api.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-rest-api.yml)
+[![](https://github.com/raptormap/raptormap/actions/workflows/docker-solid-app.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-solid-app.yml)
+[![](https://github.com/raptormap/raptormap/actions/workflows/docker-space-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-space-ms.yml)
+[![](https://github.com/raptormap/raptormap/actions/workflows/docker-user-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/docker-user-ms.yml)
+
 ### [🐲 MONOREPO](https://github.com/raptormap/raptormap)
 
 steps to start working on raptormap:
@@ -38,6 +51,4 @@ You can read the full guide [HERE](https://github.com/raptormap/.github/blob/mai
 
 ### [⚗️ DEPLOY TOOLS](https://github.com/raptormap/deploy)
 
-### Packages build status
 
-![checks](https://github.com/raptormap/raptormap/actions/workflows/checks.yml/badge.svg)
