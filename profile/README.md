@@ -2,12 +2,12 @@
 
 > Next-gen SITAC
 
-- [About](#ℹ-about)
-- [Roadmap](https://github.com/orgs/raptormap/projects/2)
+- ### [🌍 website](https://moon.raptormap.com)
+- ### [👀 About](#-about)
+- ### [🚀 Roadmap](https://github.com/orgs/raptormap/projects/2)
+- ### [🗿 Member view](https://github.com/raptormap?view_as=member)
 
-> If you're a member of the organization change the `View as: Member` setting on github
-
-## ℹ️ About
+## 👀 About
 
 Bienvenue sur RaptorMap, une nouvelle façon d’interagir avec votre environnement au quotidien. Prenez rapidement des décisions plus pertinentes, seul ou en équipe grâce à nos outils de collaboration temps réel adaptable à tous type de contexte d’exploitation.
 
