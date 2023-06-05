@@ -9,7 +9,7 @@
 
 ## 👀 About
 
-Bienvenue sur RaptorMap, une nouvelle façon d’interagir avec votre environnement au quotidien. Prenez rapidement des décisions plus pertinentes, seul ou en équipe grâce à nos outils de collaboration temps réel adaptable à tous type de contexte d’exploitation.
+**Bienvenue sur RaptorMap, une nouvelle façon d’interagir avec votre environnement au quotidien. Prenez rapidement des décisions plus pertinentes, seul ou en équipe grâce à nos outils de collaboration temps réel adaptable à tous type de contexte d’exploitation.**
 
 Faites sauter les verrous techniques grâce à notre outil qui vous offre la possibilité de créer et de partager des informations de manière simple et rapide directement sur des cartes configurables. Grâce à notre interface intuitive, vous pouvez dessiner des plans, ajouter des points d’intérêt ou des documents et partager vos cartes avec vos collègues, votre direction ou vos partenaires en quelques clics.
 
