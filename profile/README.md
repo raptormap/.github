@@ -2,10 +2,10 @@
 
 > Next-gen SITAC
 
-- [About](#-about)
+- [About](#ℹ-about)
 - [Roadmap](https://github.com/orgs/raptormap/projects/2)
 
-> If you're a member change the `View as private` setting on github
+> If you're a member of the organization change the `View as: Member` setting on github
 
 ## ℹ️ About
 
