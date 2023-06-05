@@ -1,54 +1,22 @@
 # 🦖 RAPTOR MAP
 
-> Welcome to the org !
+> Next-gen SITAC
 
-- [🗿 Start Working](#-start-working)
-- [🪨 Contribute](#-contribute)
-- [🚀 Deploy](#-deploy)
+- [About](#-about)
+- [Roadmap](https://github.com/orgs/raptormap/projects/2)
 
-## 🗿 Start Working
+> If you're a member change the `View as private` setting on github
 
-### [✔️ TODO](https://github.com/orgs/raptormap/projects/1)
+## ℹ️ About
 
-### [🐲 MONOREPO](https://github.com/raptormap/raptormap)
+Bienvenue sur RaptorMap, une nouvelle façon d’interagir avec votre environnement au quotidien. Prenez rapidement des décisions plus pertinentes, seul ou en équipe grâce à nos outils de collaboration temps réel adaptable à tous type de contexte d’exploitation.
 
-[![main](https://github.com/raptormap/raptormap/actions/workflows/branch-checks-main.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/branch-checks-main.yml)
-[![packages:next](https://github.com/raptormap/raptormap/actions/workflows/folder-checks-packages.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/folder-checks-packages.yml)
-[![rest-api:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-rest-api.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-rest-api.yml)
-[![gateway:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-gateway.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-gateway.yml)
-[![solid-app:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-solid-app.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-solid-app.yml)
-[![auth-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-auth-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-auth-ms.yml)
-[![chart-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-chart-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-chart-ms.yml)
-[![layer-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-layer-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-layer-ms.yml)
-[![log-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-log-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-log-ms.yml)
-[![user-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-user-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-user-ms.yml)
-[![space-ms:next](https://github.com/raptormap/raptormap/actions/workflows/app-checks-space-ms.yml/badge.svg)](https://github.com/raptormap/raptormap/actions/workflows/app-checks-space-ms.yml)
+Faites sauter les verrous techniques grâce à notre outil qui vous offre la possibilité de créer et de partager des informations de manière simple et rapide directement sur des cartes configurables. Grâce à notre interface intuitive, vous pouvez dessiner des plans, ajouter des points d’intérêt ou des documents et partager vos cartes avec vos collègues, votre direction ou vos partenaires en quelques clics.
 
-steps to start working on raptormap:
+Mais RaptorMap, c’est bien plus qu’une simple solution de cartographie. Nous vous offrons également la possibilité de gérer en temps réel plusieurs évènements en parallèle et de les archiver pour analyse ou les réutiliser ultérieurement. Que ce soit un incident, une maintenance, ou tout autre type d’évènement, vous pouvez suivre l’avancée de chacun au plus près grâce à nos outils dédiés.
 
-- create a fork of the above repository
-- clone the newly created fork on your computer
-- make some changes and push them **on your fork**
-- create a pull request into the raptormap repository from your fork working branch
-- wait for the tests to complete and **someone else** to review your code
+En outre, vous disposez d’un contrôle total de vos données. Vous décidez qui peut accéder à vos cartes et à vos évènements, et définissez les permissions de chaque utilisateur. Enfin, RaptorMap vous permet de garder toute votre liberté grâce à nos outils d’export de données pour archivage ou exploitation par des services tiers tout en respectant les standards du domaine.
 
-### Documentation
+Nous prenons très à coeur notre relation client, rejoignez notre communauté sur les différents réseau sociaux ou directement pour disposer d’une aide réactive et adaptée. Répondre à vos besoins est notre priorité, nous vous offrons la possibilités d’intervenir dans les choix de développement de l’outil en fonction de vos retours terrains.
 
-You will find the documentation in the [docs folder](https://github.com/raptormap/raptormap/tree/main/docs) of the monorepo.\
-It is written in markdown but we recommend using [obsidian](https://obsidian.md/) to make things easier.
-
-To use obsidian simply install it and when prompted use `Open folder as vault` and select the `docs` folder from the repository. (Do not open the whole repository in obsidian...)
-
-Alternatively you can use the preview feature of VSCode with `Ctrl`+`Shift`+`V`
-
-## 🪨 Contribute
-
-### ⚠️ You MUST use [Conventional Commits](tools/Conventional%20Commits.md)
-
-> We use an automated versioning process that rely on commit messages for the version bump and changelog.
-
-You can read the full guide [HERE](https://github.com/raptormap/.github/blob/main/CONTRIBUTING.md)
-
-## 🚀 Deploy
-
-### [⚗️ DEPLOY TOOLS](https://github.com/raptormap/deploy)
+En utilisant RaptorMap, vous bénéficierez d’une meilleure visibilité sur votre environnement et pourrez prendre des décisions plus efficace au quotidien. Inscrivez-vous dès maintenant et découvrez toutes les possibilités que nous vous proposons. Nous sommes impatients de vous aider à améliorer votre activité grâce à RaptorMap.
