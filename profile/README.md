@@ -3,7 +3,6 @@
 > Next-gen SITAC
 
 - ### [🌍 website](https://moon.raptormap.com)
-- ### [👀 About](#-about)
 - ### [🚀 Roadmap](https://github.com/orgs/raptormap/projects/2)
 - ### [🗿 Member view](https://github.com/raptormap?view_as=member)
 
